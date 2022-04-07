@@ -1,4 +1,4 @@
 # My-CV
-Мой результат вы можете посмотреть <strong><em>тут</em></strong>
+Мой результат вы можете посмотреть <strong><em>тут:</em></strong>
 
-[Мое резюме и не только](https://very-merry.github.io/My-CV/)
+[Обо мне](https://very-merry.github.io/My-CV/)
